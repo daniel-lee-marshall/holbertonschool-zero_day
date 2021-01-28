@@ -1,1 +1,1 @@
-Project for better understanding Git.
+edit:: Project for better understanding Git.
